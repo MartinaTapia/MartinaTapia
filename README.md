@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Martina Tapia-Reina </h1>
+<h3 align="center">PhD student in Stellar Astronomy</h3>
 
-<!--
-**MartinaTapia/MartinaTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I'm working on my graduate PhD thesis at Astronomic Observatory in Cordoba (OAC), Argentina.
+- 🌱 I’m currently studying star clusters belonging to Magellanic Clouds (MCs) analyzing their observations made using integrated spectroscopy technique.
+- 📝 Learning about how to use Python and their libraries to analyze astronomy spectra fast and easy.
+- 💬 Ask me about: spectroscopy technique, spectral analyzers and MCs.
+- 📫 You can reach me at: **martiinatapia@gmail.com / martina.tapia@mi.unc.edu.ar**
 
-- 🔭 I’m currently working on ..holamundo.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
